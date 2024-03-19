@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "620512232749",
+    "project_id": "bdlaghazala",
+    "storage_bucket": "bdlaghazala.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:620512232749:android:e55447223d47e3d709ffa4",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_laghazala"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzU3FIUVww-teM4apoWgP_ZBudxU3Txw4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:620512232749:android:60f49bf555589e5809ffa4",
+        "android_client_info": {
+          "package_name": "com.example.laghazala"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzU3FIUVww-teM4apoWgP_ZBudxU3Txw4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
